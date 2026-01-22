@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/UoY0NL5F)
-<img width="660" height="594" alt="imagen" src="https://github.com/user-attachments/assets/44c70419-ef12-411b-9630-1b29b5ecf8be" />
-<img width="660" height="594" alt="imagen" src="https://github.com/user-attachments/assets/38325ded-6a84-4bcd-ad8c-3c9508a27891" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-blue?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 # Robots Game (JavaFX)
