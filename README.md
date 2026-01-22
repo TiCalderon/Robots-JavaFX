@@ -18,6 +18,15 @@ Proyecto inspirado en el clásico juego **Gnome-Robots**, desarrollado como part
 - **Interfaz:** Menú principal, tablero dinámico y ventana de derrota desarrollados con JavaFX y FXML.
 - **Arquitectura:** Diseño basado en el patrón Modelo-Vista-Controlador (MVC).
 
+## Mecánicas especiales
+- **Teleport Randomly**: Mueve al jugador a cualquier celda vacía, con riesgo de caer junto a un robot.
+- **Teleport Safely**: Garantiza una ubicación libre de amenazas inmediatas (con usos limitados por nivel).
+
+## Patrón MVC 
+- **Modelo**: Lógica del juego, tablero y entidades (Tablero.java, Ubicacion.java).
+- **Vista**: Interfaz gráfica desarrollada con FXML y JavaFX (VistaTablero.java, VistaMenu.java).
+- **Controlador**: Gestión de eventos y comunicación entre el modelo y la vista.
+
 ## 🛠️ Tecnologías utilizadas
 - Java 17+
 - JavaFX
