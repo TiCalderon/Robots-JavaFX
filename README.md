@@ -2,6 +2,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-blue?style=for-the-badge&logo=java&logoColor=white)
 
+<img width="1170" height="757" alt="imagen" src="https://github.com/user-attachments/assets/0bbcf5f8-68f6-43ad-b427-f701907777b7" />
+<img width="1113" height="1031" alt="imagen" src="https://github.com/user-attachments/assets/6ee346cf-64f9-401d-80b8-d74170e60e91" />
+<img width="679" height="602" alt="imagen" src="https://github.com/user-attachments/assets/278e8aed-2821-497c-8d4e-bf4a562ecab8" />
 
 
 # Robots Game (JavaFX)
